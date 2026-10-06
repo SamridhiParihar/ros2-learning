@@ -1,0 +1,11 @@
+[workspace]
+channels = ["https://prefix.dev/robostack-lyrical"]
+name = "ros2_ws"
+platforms = ["linux-aarch64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ros-lyrical-ros-base = ">=0.13.0,<0.14"
+ros-lyrical-demo-nodes-cpp = ">=0.37.9,<0.38"
