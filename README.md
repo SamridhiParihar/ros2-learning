@@ -2,6 +2,14 @@
 
 We’ll follow the dependencies between ideas: first learn how ROS organizes and connects programs, then build and inspect a small system, then add the robotics concepts needed to work with real robots.
 
+## Chapter READMEs
+
+| Section | Chapter | README |
+|---|---|---|
+| Part I — ROS 2 Foundations | Chapter 1 — Why ROS Exists | [Open README](chapters/01_ros2_foundations/01_why_ros_exists/README.md) |
+| Part I — ROS 2 Foundations | Chapter 2 — ROS 2 Architecture | [Open README](chapters/01_ros2_foundations/02_ros2_architecture/README.md) |
+| Part I — ROS 2 Foundations | Chapter 3 — The ROS Graph | [Open README](chapters/01_ros2_foundations/03_the_ros_graph/README.md) |
+
 ## Part I — ROS 2 Foundations
 
 1. **Why ROS Exists** — the integration problems ROS solves and the role it plays in a robot system
