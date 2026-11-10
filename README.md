@@ -9,6 +9,8 @@ We’ll follow the dependencies between ideas: first learn how ROS organizes and
 | Part I — ROS 2 Foundations | Chapter 1 — Why ROS Exists | [Open README](chapters/01_ros2_foundations/01_why_ros_exists/README.md) |
 | Part I — ROS 2 Foundations | Chapter 2 — ROS 2 Architecture | [Open README](chapters/01_ros2_foundations/02_ros2_architecture/README.md) |
 | Part I — ROS 2 Foundations | Chapter 3 — The ROS Graph | [Open README](chapters/01_ros2_foundations/03_the_ros_graph/README.md) |
+| Part I — ROS 2 Foundations | Chapter 4 — Nodes And Execution | [Open README](chapters/01_ros2_foundations/04_nodes_and_execution/README.md) |
+| Part I — ROS 2 Foundations | Chapter 5 — Topics And Messages | [Open README](chapters/01_ros2_foundations/05_topics_and_messages/README.md) |
 
 ## Part I — ROS 2 Foundations
 
