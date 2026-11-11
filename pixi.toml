@@ -1,5 +1,5 @@
 [workspace]
-channels = ["https://prefix.dev/robostack-lyrical"]
+channels = ["https://prefix.dev/robostack-lyrical", "conda-forge"]
 name = "ros2_ws"
 platforms = ["linux-aarch64"]
 version = "0.1.0"
@@ -9,3 +9,6 @@ version = "0.1.0"
 [dependencies]
 ros-lyrical-ros-base = ">=0.13.0,<0.14"
 ros-lyrical-demo-nodes-cpp = ">=0.37.9,<0.38"
+colcon-common-extensions = ">=0.3.0,<0.4"
+ros-lyrical-rosidl-default-generators = ">=1.8.1,<2"
+cxx-compiler = ">=2.0.0,<3"
